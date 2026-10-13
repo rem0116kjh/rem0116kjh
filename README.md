@@ -10,7 +10,6 @@
 ## Experience
 
 - **GHAS 알리미** — 개발 및 출시
-- **흐르르** — 프론트엔드 개발 참여
 
 ### Education & Certification
 
