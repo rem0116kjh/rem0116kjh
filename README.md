@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/terminal-banner.png" alt="Terminal Banner" width="100%">
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=HELLO,%20I'M%20Rem!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Rem!" width="100%" />
   <p><strong>Student Developer · Frontend · AI · Security</strong></p>
