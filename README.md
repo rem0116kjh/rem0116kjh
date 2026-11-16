@@ -31,7 +31,7 @@
 | **앱 개발** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
 | **백엔드** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase&theme=dark" alt="FastAPI, Node.js, Firebase" height="36" /> |
 | **보안 & AI** | ![Ghidra](https://img.shields.io/badge/Ghidra-B91C1C?style=flat) ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-6366F1?style=flat) ![Robotics](https://img.shields.io/badge/Robotics-0891B2?style=flat) |
-| **개발 도구** | <img src="https://skillicons.dev/icons?i=docker,github,git&theme=dark" alt="Docker, GitHub, Git" height="36" /> |
+| **개발 도구** | <img src="https://skillicons.dev/icons?i=docker,github,git,vscode&theme=dark" alt="Docker, GitHub, Git, VS Code" height="36" /> <img src="https://zed.dev/_next/static/media/stable-app-logo.0lgsg40_u_1r5.png" alt="Zed" width="36" height="36" /> |
 | **운영체제** | <img src="https://skillicons.dev/icons?i=kali,linux,windows,apple&theme=dark" alt="Kali Linux, Linux, Windows, macOS" height="36" /> |
 
 ## Interests
